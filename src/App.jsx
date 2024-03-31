@@ -9,7 +9,7 @@ import Navbar from './Components/Navbar';
 
 function App() {
   return (
-    <Router> {/* Wrap your components with Router */}
+    <Router>
       <div>
         <Navbar />
         <FilterOptions />
